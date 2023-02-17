@@ -18,7 +18,12 @@ Fake error messages
 Custom icon                                                                  
 
 How to install:
-Run Download Latest Python
-Run creativzivv1.exe
-Insert your webhook url
-Insert image url link
+
+Run Download Latest Python        
+
+Run creativzivv1.exe       
+
+Insert your webhook url     
+
+Insert image url link      
+
