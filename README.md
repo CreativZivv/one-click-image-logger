@@ -10,7 +10,7 @@ Custom icon
 
 How to install:
 
-Run Download Latest Python        
+ Download Latest Python        
 Run creativzivv1.exe       
 Insert your webhook url     
 Insert image url link      
