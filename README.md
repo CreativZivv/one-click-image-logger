@@ -19,3 +19,5 @@ requirements:
 a brain, windows 10+, python 3.9.5+, an discord server with an webhook
 
 If you got any errors just report if so they will get fixed
+
+Updates: idk
